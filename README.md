@@ -1,5 +1,5 @@
-Hi! My name is Catherine.
-I'm interested in both linguistics and design :)
+## Hi, my name is Catherine! ##
+I'm a college student currently experimenting with projects in computational linguistics, software development and game design.
 
 <!---
 catherinetww/catherinetww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
